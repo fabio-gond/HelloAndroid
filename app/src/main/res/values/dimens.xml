@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title">25sp</dimen>
+    <dimen name="address">20sp</dimen>
+    <dimen name="phone">25sp</dimen>
+    <dimen name="button">20sp</dimen>
+</resources>
